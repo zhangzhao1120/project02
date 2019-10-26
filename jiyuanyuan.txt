@@ -1,1 +1,5 @@
-lol is very good
+<<<<<<< HEAD
+lol is very nice
+=======
+lol is very nice
+>>>>>>> dev1
